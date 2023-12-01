@@ -240,7 +240,7 @@ footer a{
 	display:block;
 	width:200px;
 	height:37px;
-  	background-image:url(../images/button1.png);
+  	background-image:url(images/button1.png);
 	background-color:transparent;	
 	background-size:cover;
  	text-align: center;
@@ -255,7 +255,7 @@ footer a{
 	display:block;
 	width:200px;
 	height:37px;
-  	background-image:url(../images/button6.svg);
+  	background-image:url(images/button6.svg);
 	background-color:transparent;	
 	background-size:cover;
  	text-align: center;
@@ -270,7 +270,7 @@ footer a{
 	display:block;
 	width:200px;
 	height:37px;
-  	background-image:url(../images/button7.svg);
+  	background-image:url(images/button7.svg);
 	background-color:transparent;	
 	background-size:cover;
  	text-align: center;
@@ -474,7 +474,7 @@ input[type=submit]{
  	text-align: center;
 	width:200px;
 	height:37px;
-  	background-image:url(../images/button1.png);
+  	background-image:url(images/button1.png);
 	background-size:cover;
 	background-color:transparent;
   	font-size: 20px;
@@ -552,7 +552,7 @@ input[type=submit]{
 }
 	/*SECTION 2: table and swirl*/
 .servsec2{
-	background-image:url(../images/services_swirl.png);
+	background-image:url(images/services_swirl.png);
 	background-repeat:no-repeat,repeat;
 	background-size:cover;
 	width:auto;
@@ -887,7 +887,7 @@ tr{
 	padding-top:100px;
 	color:#2E2B30;
 	height:750px;
-	background:url(../images/visitsec2.png);
+	background:url(images/visitsec2.png);
 	background-repeat:no-repeat,repeat;
 	background-size:cover;
 	position:relative;
@@ -1275,7 +1275,7 @@ nav{
 	width: 100%;
 	margin-top: 120px;
 	color:#2E2B30;
-	background:url(../images/visit-tablet-background.png);
+	background:url(images/visit-tablet-background.png);
 	background-size:cover;
 	background-repeat: no-repeat;
 	}
@@ -1924,7 +1924,7 @@ footer a{
 .button:hover{
 	width:300px;
 	height:55px;
-  	background-image:url(../images/button4.png);
+  	background-image:url(images/button4.png);
 	color:#000000;
 	padding-right:30px;
 	transition: all 0.4s ease;
@@ -1936,7 +1936,7 @@ footer a{
 .button2:hover{
 	width:300px;
 	height:55px;
-  	background-image:url(../images/button2.png);
+  	background-image:url(images/button2.png);
 	color:#D9CEE0;
 	padding-right:30px;
 	transition: all 0.4s ease;
@@ -1944,7 +1944,7 @@ footer a{
 .button3:hover{
 	width:300px;
 	height:55px;
-  	background-image:url(../images/button2.png);
+  	background-image:url(images/button2.png);
 	color:#D9CEE0;
 	padding-right:30px;
 	transition: all 0.4s ease;
@@ -1957,7 +1957,7 @@ footer a{
 .button1:hover{
 	width:300px;
 	height:55px;
-  	background-image:url(../images/button4.png);
+  	background-image:url(images/button4.png);
 	color:#000000;
 	padding-right:30px;
 	transition: all 0.4s ease;
@@ -2057,7 +2057,7 @@ footer a{
 	padding-top:400px;
 	width: 100%;
 	margin-top:16%;
-	background:url(../images/visit-tablet-background.png);
+	background:url(images/visit-tablet-background.png);
 	background-size:cover;
 	height:auto;
 	}
